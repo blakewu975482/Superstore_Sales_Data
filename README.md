@@ -5,4 +5,6 @@
 
 參考Analysis Notebook：https://www.kaggle.com/code/samruddhim/part-1-exploratory-data-analysis/notebook
 
-其他參考資料：https://www.kaggle.com/code/rohitsahoo/eda-superstore-dataset
+其他參考資料：
+https://www.kaggle.com/code/rohitsahoo/eda-superstore-dataset
+https://www.kaggle.com/code/gcdatkin/superstore-sales-prediction/notebook
